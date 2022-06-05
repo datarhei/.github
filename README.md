@@ -136,6 +136,6 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **Log files help analyze errors,** monitor proper operation, or improve systems. In addition, log files obtain information about the video processing of FFmpeg. The data can adapt and optimize the video stream.
 
 ## Tons of useful functions
-##The Restreamer contains many neat functions** that make everyday streaming easier and greatly expand the application possibilities of the program.
+**The Restreamer contains many neat functions** that make everyday streaming easier and greatly expand the application possibilities of the program.
 
 **|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Rasbperry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Refferer banlist **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto generated static snapshot from video  **|**  Video meta information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub

@@ -12,7 +12,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  100% data control <br>
 **|**  Free video streaming without video provider <br>
 **|**  Runs everywhere with Docker <br>
-## 🟡 datarhei **Core**
+## 🟡 [datarhei **Core**](https://github.com/datarhei/core)
 **|**  Instant Docker installation <br>
 **|**  HTTP API with FFmpeg <br>
 **|**  Minimal requirements <br>
@@ -108,7 +108,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  HTTP (HLS, DASH), RTP, RTSP, RTMP, SRT, NDI <br>
 
 ## HTML5 video player framewordk
-**Entirely integrated professional player ready to start on the fly.** video.js is a free open -ource web video player used by professionals worldwide. It supports HTML5 video and modern streaming formats. In addition, the styling is pure CSS.
+**Entirely integrated professional player ready to start on the fly.** video.js is a free open-source web video player used by professionals worldwide. It supports HTML5 video and modern streaming formats. In addition, the styling is pure CSS.
 
 **|**  Plays anything
 **|**  Easy to style <br>

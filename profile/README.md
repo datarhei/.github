@@ -7,16 +7,16 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 
 # datarhei UNIVERSE
 ## datarhei **Restreamer**
-**|**  Admin Panel for the datarhei Core  <br>
+**|**  Admin panel for the datarhei Core  <br>
 **|**  Selfhosting streaming solution <br>
 **|**  100% data control <br>
 **|**  Free video streaming without video provider <br>
 **|**  Runs everywhere with Docker <br>
 ## datarhei **Core**
-**|**  Instant Docker Installation <br>
-**|**  HTTP API With FFmpeg <br>
-**|**  Minimal Requirements <br>
-**|**  No License Costs <br>
+**|**  Instant Docker installation <br>
+**|**  HTTP API with FFmpeg <br>
+**|**  Minimal requirements <br>
+**|**  No license costs <br>
 **|**  Open source <br>
 
 ## Why use the datarhei Restreamer?
@@ -41,7 +41,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  Stream sonfiguration <br>
 **|**  Video player configuration <br>
 **|**  System monitoring <br>
-**|**  Processreport <br>
+**|**  Process report <br>
 **|**  Process details <br>
 **|**  Connect / Disconnect <br>
 
@@ -114,7 +114,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  Easy to style <br>
 **|**  Rapid integration <br>
 **|**  Advertising with IMA <br>
-**|**  100s of Skins and Plugins <br>
+**|**  100s of skins and plugins <br>
 **|**  Full Documented API <br>
 **|**  Open-Source library <br>
 **|**  More on videojs.com <br>

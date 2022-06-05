@@ -96,7 +96,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  Usable without web hoster <br>
 **|**  Channel statistics and user counting <br>
 
-## Multiple av-inputs
+## Multiple AV-inputs
 **datarhei Restreamer can process a variety of video sources** from USB, network, or virtual video sources. In addition, the internal RTMP server can process video signals from external software such as OBS or Blackmagic hardware video encoders.
 
 **|**  USB video source <br>

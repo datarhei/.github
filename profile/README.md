@@ -1,5 +1,5 @@
 # 🚀 Welcome to datarhei
-## AN EASY TO USE OPEN SOURCE VIDEO SERVER AND FRAMEWORK FOR FREE VIDEO STREAMING
+## AN EASY TO USE OPEN-SOURCE VIDEO SERVER AND FRAMEWORK FOR FREE VIDEO STREAMING
 
 **datarhei keeps video data flowing and is the world's most outstanding video service.**
 
@@ -18,7 +18,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  HTTP API with FFmpeg <br>
 **|**  Minimal requirements <br>
 **|**  No license costs <br>
-**|**  Open source <br>
+**|**  Open-source <br>
 ### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-core)
 
 ## Why use the datarhei Restreamer?
@@ -32,7 +32,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  Selfhosting optimized <br>
 **|**  Free for private and commercial use <br>
 **|**  Developer friendly <br>
-**|**  Open source software <br>
+**|**  Open-source software <br>
 
 ## Clean user interface
 **The Restreamer offers a simplified admin panel** for streaming server newcomers or for users whose range of functions of a streaming server is too extensive. The GUI has straightforward menu navigation and a start screen level with the essential elements.
@@ -117,8 +117,8 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  Rapid integration <br>
 **|**  Advertising with IMA <br>
 **|**  100s of skins and plugins <br>
-**|**  Full Documented API <br>
-**|**  Open-Source library <br>
+**|**  Full documented API <br>
+**|**  Open-source library <br>
 **|**  More on videojs.com <br>
 
 ## Publication services
@@ -182,6 +182,6 @@ The core of datarhei Restreamer is free and open source. Extend datarhei Restrea
 **|**  100% FFmpeg media framework inside <br>
 **|**  datarhei Core in Go <br>
 **|**  GraphQL <br>
-**|**  Community Support on GitHuB <br>
-**|**  Professionale support and service level agreements <br>
+**|**  Community support on GitHuB <br>
+**|**  Professional support and service level agreements <br>
 **|**  Enterprise service level agreement <br>

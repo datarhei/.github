@@ -12,7 +12,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  100% data control <br>
 **|**  Free video streaming without video provider <br>
 **|**  Runs everywhere with Docker <br>
-### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-restreamer)
+### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-restreamer) 
 
 ## 🟡 [datarhei **Core**](https://github.com/datarhei/core)
 **|**  Instant Docker installation <br>

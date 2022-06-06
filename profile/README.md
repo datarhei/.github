@@ -159,27 +159,28 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  Flexible and configurable <br>
 **|**  Fast AV-Development <br>
 **|**  No license costs <br>
-**|**  100% open Source <br>
+**|**  100% open-source <br>
 
 ## FFmpeg media framework
-**FFmpeg is a powerful and well-known tool for editing video files.** The device can capture, convert, send and package digital video and audio into various container formats. It is a command-line program that we have given an HTTP API that makes developing programs more straightforward and faster.
+**FFmpeg is a powerful and well-known tool for editing video files.** <br>
+The device can capture, convert, send and package digital video and audio into various container formats. It is a command-line program that we have given an HTTP API that makes developing programs more straightforward and faster.
 
-**100 % FFmpeg**
+**100 % FFmpeg** <br>
 Record, convert, send and package video and audio into various container formats.  
 
-**Video codecs and audio formats with libavcodec**
+**Video codecs and audio formats with libavcodec** <br>
 Many video formats are supported, H.264, H.265, MPEG-1/2, MPEG-4 ASP (DivX/Xvid), libavcodec has better performance and high source openness in a single library.
 
-**Long-running process**
+**Long-running process** <br>
 High error tolerance for all FFmpeg processes on the system.
 
-**Full integration via API**
+**Full integration via API** <br>
 Enjoy the benefits of an FFmpeg REST API for fast and easy video application development.
 
 ## Developer-friendly
 The core of datarhei Restreamer is free and open source. Extend datarhei Restreamer according to your needs. An API makes flexible video processing with the FFMpeg media framework easy. Create your video streaming and management platform.
 
-**|**  JSON REST-API (Swagger documented) <br>
+**|**  JSON REST-API ([Swagger](https://demo.datarhei.com/api/swagger/index.html#/) documented) <br>
 **|**  100% FFmpeg media framework inside <br>
 **|**  datarhei Core in Go <br>
 **|**  GraphQL <br>

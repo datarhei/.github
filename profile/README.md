@@ -1,11 +1,11 @@
-# Welcome to datarhei
+# 🚀 Welcome to datarhei
 ## AN EASY TO USE OPEN SOURCE VIDEO SERVER AND FRAMEWORK FOR FREE VIDEO STREAMING
 
 **datarhei keeps video data flowing and is the world's most outstanding video service.**
 
 Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
 
-#  datarhei Universe
+# datarhei Universe
 ## 🟡 [datarhei **Restreamer**](https://github.com/datarhei/restreamer)
 **|**  Admin panel for the datarhei Core  <br>
 **|**  Selfhosting streaming solution <br>
@@ -21,7 +21,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 
 ## Why use the datarhei Restreamer?
 ### datarhei Restreamer offers smart free video streaming in real time.
-The Restreamer is a full streaming server solution for self hosting. Upload your live stream to YouTube, Twitch, Facebook, Vimeo or any other streaming solutions like Wowza. Receive video data from OBS and publish it with the internal RTMP server. Visually appealing user interface, No ongoing licence costs.  Full control over the video data at any time. The Bandwidth limitation helps to calculate the traffic costs to reduce financial and technical risks. It is GDPR compliant without third party providers and no saving audience data. The Restreamer Docker image is easy to install and runs on Linux, macOS and Windows, as well as on Raspberry Pi and single board computers. Beginners are supported by assistance and test systems and immediately find their way around the complexity of a video server. Professionals appreciate the fast and spontaneous configuration options for complex settings of the applications in everyday work. 
+**The Restreamer is a complete streaming server solution for self-hosting.** Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the internal RTMP server. The visually appealing user interface, No ongoing license costs. Complete control over the video data at any time. The Bandwidth limitation helps to calculate the traffic costs to reduce financial and technical risks. It is GDPR compliant without third-party providers and no saving audience data. The Restreamer Docker image is easy to install and runs on Linux, macOS, Windows, Raspberry Pi, and single-board computers. Beginners are supported by assistance and test systems and immediately find their way around the complexity of a video server. Professionals appreciate the fast and spontaneous configuration options for complex settings of the applications in everyday work. 
 
 **Restreamer in a nutshell:** Simplified User-Interface, REST-API (JSON) and 100% Swagger documented, GraphQL, Multiple A/V Inputs and Outputs, Multiple protocols and codecs, perfect Raspberry Pi (MMAL/OMX), Nvidia Cuda, Intel VAAPI support, Support for Hardware- and Virtual-Devices, FFmpeg Video-Processing (as native as possible), Build-in Clappr video player for your Website, Configurable Player site for streaming without player embedding, HTTP/S- (HLS) and RTMP/S-Streaming Server, Auto. Let's Encrypt HTTPS certification, Viewer/Bandwidth Monitoring and limiting, Ressource monitoring (optionally by Prom-Metrics), Server- and Process-Logging.
 
@@ -86,7 +86,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  Long term with the datarhei Service <br>
 
 ## Ready to go publication website
-**Restreamer offers a complete player site** with an open-source video player player. It is ready to present your live stream easily and quickly in 2 clicks. Adjust the player site's colors and background as you like it. Add external widgets and styles to the player site.
+**Restreamer offers a complete player site** with an open-source video player. It is ready to present your live stream easily and quickly in 2 clicks. Adjust the player site's colors and background as you like it. Add external widgets and styles to the player site.
 
 **|**  HTML template with video player <br>
 **|**  Multi-channel capable <br>
@@ -107,8 +107,8 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  RTMP Push and RTMP Pull <br>
 **|**  HTTP (HLS, DASH), RTP, RTSP, RTMP, SRT, NDI <br>
 
-## HTML5 video player framewordk
-**Entirely integrated professional player ready to start on the fly.** video.js is a free open-source web video player used by professionals worldwide. It supports HTML5 video and modern streaming formats. In addition, the styling is pure CSS.
+## HTML5 video player framework
+**Entirely integrated professional player ready to start on the fly.** video.js is a free, open-source web video player used by professionals worldwide. It supports HTML5 video and modern streaming formats. In addition, the styling is pure CSS.
 
 **|**  Plays anything
 **|**  Easy to style <br>
@@ -133,9 +133,9 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **Restreamer supports HDMI-OUT** and can output network video as HDMI signal. 
 
 ## Server and process logging
-**Log files help analyze errors,** monitor proper operation, or improve systems. In addition, log files obtain information about the video processing of FFmpeg. The data can adapt and optimize the video stream.
+**Log files help analyze errors,** monitor proper operation or improve systems. In addition, log files obtain information about the video processing of FFmpeg. The data can adapt and optimize the video stream.
 
 ## Tons of useful functions
-**The Restreamer contains many neat functions** that make everyday streaming easier and greatly expand the application possibilities of the program.
+**The Restreamer contains many neat parts** that make everyday streaming easier and significantly expand the application possibilities of the program.
 
-**|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Rasbperry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Refferer banlist **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto generated static snapshot from video  **|**  Video meta information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub
+**|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Raspberry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Referrer ban list **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto-generated static snapshot from video  **|**  Video meta-information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub

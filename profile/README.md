@@ -143,7 +143,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 
 **|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Raspberry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Referrer ban list **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto-generated static snapshot from video  **|**  Video meta-information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub
 
-# datarhei Core
+# Why use the datarhei Core
 ### datarhei Core is a management for FFmpeg processes without development effort. 
 **The software is open-source and the central interface for mapping AV processes.**  datarhei Core is responsible for the design and management and provides all necessary interfaces to access the video content. The included control for FFmpeg can keep all used processes reliable and executable without the need for software developers to take care of it. In addition, process and resource limitation for all FFmpeg processes protects the host system from application overload. The overall system gives direct access to current process values (CPU, RAM) and complete control of system resources and load with statistical access to process data and current and historical logs. 
 

@@ -32,7 +32,7 @@ The Restreamer is a full streaming server solution for self hosting. Upload your
 **|**  Developer friendly <br>
 **|**  Open source software <br>
 
-### Clean user interface
+## Clean user interface
 **The Restreamer offers a simplified admin panel** for streaming server newcomers or for users whose range of functions of a streaming server is too extensive. The GUI has straightforward menu navigation and a start screen level with the essential elements.
 
 **|**  Main Menu <br>

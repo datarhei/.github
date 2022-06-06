@@ -12,6 +12,8 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  100% data control <br>
 **|**  Free video streaming without video provider <br>
 **|**  Runs everywhere with Docker <br>
+### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-restreamer)
+
 ## 🟡 [datarhei **Core**](https://github.com/datarhei/core)
 **|**  Instant Docker installation <br>
 **|**  HTTP API with FFmpeg <br>
@@ -139,3 +141,48 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **The Restreamer contains many neat parts** that make everyday streaming easier and significantly expand the application possibilities of the program.
 
 **|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Raspberry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Referrer ban list **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto-generated static snapshot from video  **|**  Video meta-information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub
+
+## datarhei Core
+### datarhei Core is a management for FFmpeg processes without development effort. 
+**The software is open-source and the central interface for mapping AV processes.**  datarhei Core is responsible for the design and management and provides all necessary interfaces to access the video content. The included control for FFmpeg can keep all used processes reliable and executable without the need for software developers to take care of it. In addition, process and resource limitation for all FFmpeg processes protects the host system from application overload. The overall system gives direct access to current process values (CPU, RAM) and complete control of system resources and load with statistical access to process data and current and historical logs. 
+
+**|**  Full streaming server <br>
+**|**  HTTP API with FFmpeg management <br>
+**|**  FFmpeg long term process <br>
+**|**  Design and manage AV processes <br>
+**|**  Access to process values <br>
+**|**  Resources control host <br>
+**|**  Process and resource limitation <br>
+**|**  Process data statistics <br>
+**|**  Historical log data <br>
+**|**  Flexible and configurable <br>
+**|**  Fast AV-Development <br>
+**|**  No license costs <br>
+**|**  100% open Source <br>
+
+## FFmpeg media framework
+**FFmpeg is a powerful and well-known tool for editing video files.** The device can capture, convert, send and package digital video and audio into various container formats. It is a command-line program that we have given an HTTP API that makes developing programs more straightforward and faster.
+
+**100 % FFmpeg**
+Record, convert, send and package video and audio into various container formats.  
+
+**Video codecs and audio formats with libavcodec**
+Many video formats are supported, H.264, H.265 , MPEG-1/2, MPEG-4 ASP (DivX/Xvid), libavcodec has better performance and high source openness in a single library.
+
+**Long running process**
+High error tolerance for all FFmpeg processes on the system.
+
+**Full integration via API**
+Enjoy the benefits of an FFmpeg REST API for fast and easy video application development.
+
+## Developer friendly
+The core of datarhei Restreamer is free and open source. Extend datarhei Restreamer according to your needs. An API makes flexible video processing with the FFMpeg media framework easy. Create your video streaming and management platform.
+
+**|**  JSON REST-API (Swagger documented) <br>
+**|**  100% FFmpeg media framework inside <br>
+**|**  datarhei Core in Go <br>
+**|**  GraphQL <br>
+**|**  Community Support on GitHuB <br>
+**|**  Professionale support and service level agreements <br>
+**|**  Enterprise service level agreement <br>
+

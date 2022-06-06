@@ -5,8 +5,8 @@
 
 Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
 
-## datarhei Universe
-# 🟡 [datarhei **Restreamer**](https://github.com/datarhei/restreamer)
+# datarhei Universe
+## 🟡 [datarhei **Restreamer**](https://github.com/datarhei/restreamer)
 **|**  Admin panel for the datarhei Core  <br>
 **|**  Selfhosting streaming solution <br>
 **|**  100% data control <br>

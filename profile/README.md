@@ -5,6 +5,7 @@
 
 Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
 
+---
 ## 🟡 [datarhei **Restreamer**](https://github.com/datarhei/restreamer)
 **|**  Admin panel for the datarhei Core  <br>
 **|**  Selfhosting streaming solution <br>
@@ -12,7 +13,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  Free video streaming without video provider <br>
 **|**  Runs everywhere with Docker <br>
 ### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-restreamer) 
-
+---
 ## 🟡 [datarhei **Core**](https://github.com/datarhei/core)
 **|**  Instant Docker installation <br>
 **|**  HTTP API with FFmpeg <br>
@@ -20,7 +21,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 **|**  No license costs <br>
 **|**  Open-source <br>
 ### [Learn more](https://github.com/datarhei/.github/blob/main/profile/README.md#why-use-the-datarhei-core)
-
+---
 ## Why use the datarhei Restreamer?
 ### datarhei Restreamer offers smart free video streaming in real time.
 **The Restreamer is a complete streaming server solution for self-hosting.** Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the internal RTMP server. The visually appealing user interface, No ongoing license costs. Complete control over the video data at any time. The Bandwidth limitation helps to calculate the traffic costs to reduce financial and technical risks. It is GDPR compliant without third-party providers and no saving audience data. The Restreamer Docker image is easy to install and runs on Linux, macOS, Windows, Raspberry Pi, and single-board computers. Beginners are supported by assistance and test systems and immediately find their way around the complexity of a video server. Professionals appreciate the fast and spontaneous configuration options for complex settings of the applications in everyday work. 
@@ -141,6 +142,7 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 
 **|**  Multi-Language DE, EN, PT, FR, IT, ES  **|**  RTMP-Server  **|**  USB-Video  **|**  Network-Video  **|**  Raspicam **|**  HDMI Out via Raspberry Pi or Zero  **|**  GPU Encoding on Raspberry Pi  **|**  Developer friendly environment  **|**  VOD replay **|**  Record VOD on memory card  **|**  Referrer ban list **|**  Experte mode   **|**  Mux separate audio channel to video  **|**  Auto-generated static snapshot from video  **|**  Video meta-information about author and content  **|**  Storage support  **|**  FFmpeg long running process fault tolerance  **|**  FFmpeg logging report and debugging  **|**  Private and Commercial streaming **|**  User limitation  **|**  Bandwith control and limitation  **|**  RTMP server security token **|**  Network video interface  **|**  Commit your own plugins on GitHub
 
+---
 ## Why use the datarhei Core
 ### datarhei Core is a management for FFmpeg processes without development effort. 
 **The software is open-source and the central interface for mapping AV processes.**  datarhei Core is responsible for the design and management and provides all necessary interfaces to access the video content. The included control for FFmpeg can keep all used processes reliable and executable without the need for software developers to take care of it. In addition, process and resource limitation for all FFmpeg processes protects the host system from application overload. The overall system gives direct access to current process values (CPU, RAM) and complete control of system resources and load with statistical access to process data and current and historical logs. 

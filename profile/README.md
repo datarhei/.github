@@ -3,7 +3,7 @@
 
 [![website](https://img.shields.io/badge/Website-datarhei.com-blue)](https://datarhei.com)
 [![twitter](https://img.shields.io/twitter/follow/datarhei?label=%40datarhei&style=social)](https://twitter.com/intent/follow?screen_name=datarhei&tw_p=followbutton)
-[![discord](https://img.shields.io/discord/669914488723734548?label=Discord&logo=discord)](https://discord.gg/SaT7GvXj)
+[![discord](https://img.shields.io/discord/669914488723734548?label=Discord&logo=discord)](https://discord.gg/33JCDkPmmj)
 
 **datarhei keeps video data flowing and is the world's most outstanding video service.**
 

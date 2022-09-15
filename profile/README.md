@@ -15,7 +15,10 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
 
 - [Restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the internal RTMP server.
 - [Restreamer-UI](https://github.com/datarhei/restreamer-ui) - The user interface of the Restreamer for the connection to the Core application.
-- [Core](https://github.com/datarhei/core) - Management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.
+- [Core](https://github.com/datarhei/core) - Management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video project at any stage. We've solved the challenging problems so you can focus on your application, not your infrastructure.     
+        
+  **API Client libraries:**
+  [Go](https://github.com/datarhei/core-client-go), [Python3](https://github.com/datarhei/core-client-python)
 - [GoSRT](https://github.com/datarhei/gosrt) - Implementation of the SRT protocol in pure Go.
 
 

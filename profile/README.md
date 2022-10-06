@@ -21,5 +21,5 @@ Whether your streaming has one viewer or a million, we have the tools to help yo
   [Go](https://github.com/datarhei/core-client-go), [Python3](https://github.com/datarhei/core-client-python)
 - [GoSRT](https://github.com/datarhei/gosrt) - Implementation of the SRT protocol in pure Go.
 
-
-
+## Business inquiries
+**We provide support for commercial requirements with professional support, agile software development, and consulting.** If you have a commercial request, be it a bug or a feature enhancement, please contact us directly at support@datarhei.com.
